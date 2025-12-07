@@ -1,0 +1,131 @@
+{
+  "ae2": {
+    "namespace":"ae2",
+    "name":"Applied Energistics 2",
+    "version":"15.5.0",
+    "description":"A Mod about Matter, Energy and using them to conquer the world..",
+    "license":["See GitHub repository for details"],
+    "blockCount":103,
+    "itemCount":365
+  },
+  "ars_nouveau": {
+    "namespace":"ars_nouveau",
+    "name":"Ars Nouveau",
+    "version":"4.12.7",
+    "description":"Craft spells, create powerful baubles, and summon magical creatures!\n",
+    "authors":["Bailey Hollingsworth"],
+    "license":["GNU GENERAL PUBLIC LICENSE"],
+    "blockCount":178,
+    "itemCount":402
+  },
+  "arseng": {
+    "namespace":"arseng",
+    "name":"Ars Énergistique",
+    "version":"1.2.0",
+    "description":"Bringing magic to the digital age.\nAdds digital source storage, P2P transport and various other cross-compatibility improvements to Ars Nouveau and AE2.",
+    "authors":["90, dkmk100"],
+    "license":["LGPLv3.0"],
+    "blockCount":2,
+    "itemCount":17
+  },
+  "chisel": {
+    "namespace":"chisel",
+    "name":"Chisel Reborn",
+    "version":"2.0.0+mc1.20.1",
+    "description":"Adds New Blocks!\n",
+    "authors":["[Slaincow, KnowYourKnot, Original Creator: AUTOMATIC_MAIDEN]"],
+    "license":["GPLv2"],
+    "blockCount":1293,
+    "itemCount":1294
+  },
+  "create": {
+    "namespace": "create",
+    "blockCount": 643,
+    "itemCount": 699,
+    "name": "Create",
+    "version": "6.0.8",
+    "description": "Technology that empowers the player.",
+    "authors": [
+      "simibubi"
+    ],
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/create"
+  },
+  "create_connected": {
+    "namespace": "create_connected",
+    "blockCount": 65,
+    "itemCount": 57,
+    "name": "Create: Connected",
+    "version": "1.1.10-mc1.21.1",
+    "description": "Quality-of-life blocks that you wish existed in Create.",
+    "authors": [
+      "Lysine"
+    ],
+    "homepage": "https://github.com/hlysine/create_connected"
+  },
+  "create_new_age": {
+    "namespace": "create_new_age",
+    "blockCount": 34,
+    "itemCount": 52,
+    "name": "Create: New Age",
+    "version": "1.1.6+mc1.21.1",
+    "description": "An addon for the Create mod that adds integration with electricity",
+    "authors": [
+      "Antarctic Gardens"
+    ],
+    "homepage": "https://antarcticgardens.org/"
+  },
+  "enderio": {
+    "namespace":"enderio",
+    "name":"Ender IO",
+    "version":"6.2.16-beta",
+    "description":"Compact conduits, painted things and all sorts of stuff and bling.",
+    "authors":["CrazyPants, tterrag, HenryLoenwind, MatthiasM, CyanideX, EpicSquid, Rover656, HypherionSA, agnor99, Ferri_Arnus, dphaldes"],
+    "license":["CC0"],
+    "homepage":"http://enderio.com/",
+    "blockCount":820,
+    "itemCount":954
+  },
+  "gtceu": {
+    "namespace":"gtceu",
+    "name":"GregTech",
+    "version":"1.8.0","description":"GregTech CE Unofficial, ported from 1.12.2",
+    "authors":["KilaBash, screret, serenibyss, Tech22, YoungOnion, Mikerooni, Ghostipedia"],
+    "license":["LGPL-3.0 license"],
+    "homepage":"https://github.com/GregTech-Odyssey/GregTech-Modern/",
+    "blockCount":2937,
+    "itemCount":7480
+  },
+  "gtmthings": {
+    "namespace":"gtmthings",
+    "name":"GTMThings",
+    "version":"1.5.5-GTO-Port",
+    "description":"Add some machines to GregTech-Modern\n",
+    "authors":["liansishen"],
+    "license":["LGPLv3.0"],
+    "homepage":"https://www.curseforge.com/minecraft/mc-mods/gtmthings",
+    "blockCount":9,
+    "itemCount":46
+  },
+  "gto": {
+    "namespace":"gto",
+    "blockCount":0,
+    "itemCount":0
+  },
+  "gtocore": {
+    "namespace":"gtocore",
+    "name":"GTOCore",
+    "version":"0.5.0",
+    "description":"GregTech Odyssey Core Mod.",
+    "license":["LGPLv3.0"],
+    "blockCount":2745,
+    "itemCount":8397
+  },
+  "minecraft": {
+    "namespace": "minecraft",
+    "blockCount": 1060,
+    "itemCount": 1333,
+    "name": "Minecraft",
+    "version": "1.21.1",
+    "description": "Minecraft"
+  }
+}

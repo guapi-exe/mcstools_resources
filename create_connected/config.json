@@ -1,1 +1,12 @@
-{"namespace":"create_connected","blockCount":65,"itemCount":57}
+{
+  "namespace": "create_connected",
+  "blockCount": 65,
+  "itemCount": 57,
+  "name": "Create: Connected",
+  "version": "1.1.10-mc1.21.1",
+  "description": "Quality-of-life blocks that you wish existed in Create.",
+  "authors": [
+    "Lysine"
+  ],
+  "homepage": "https://github.com/hlysine/create_connected"
+}

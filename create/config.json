@@ -1,1 +1,12 @@
-{"namespace":"create","blockCount":586,"itemCount":618}
+{
+  "namespace": "create",
+  "blockCount": 643,
+  "itemCount": 699,
+  "name": "Create",
+  "version": "6.0.8",
+  "description": "Technology that empowers the player.",
+  "authors": [
+    "simibubi"
+  ],
+  "homepage": "https://www.curseforge.com/minecraft/mc-mods/create"
+}
